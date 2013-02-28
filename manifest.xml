@@ -1,0 +1,20 @@
+<package>
+  <description brief="auxtools">
+
+     auxtools
+
+  </description>
+  <author>victor</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/auxtools</url>
+  <depend package="tf"/>
+  <depend package="roscpp"/>
+  <depend package="move_base_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="laser_geometry"/>
+  <depend package="sensor_msgs" />
+
+</package>
+
+
